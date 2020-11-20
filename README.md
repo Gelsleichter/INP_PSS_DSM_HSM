@@ -1,1 +1,1 @@
-# Thesis_UFRRJ-LaTeX_Template-
+# Thesis_UFRRJ
